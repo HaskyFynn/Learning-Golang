@@ -26,4 +26,8 @@ func main() {
 
 	fmt.Println(rangeOne, rangeTwo, rangeThree)
 
+	rangeOne = append(rangeOne, "ama")
+
+	fmt.Println(rangeOne, rangeTwo, rangeThree)
+
 }
