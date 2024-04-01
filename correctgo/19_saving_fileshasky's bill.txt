@@ -1,4 +1,0 @@
-Bill Breakdown: 
-tom brown:               ...$22 
-tip:                     ...$0
-total:                   ...$22.00
