@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	mybill := newbill("hasky's bill")
+	mybill := newbill("Hasky's bill")
 
 	fmt.Println(mybill)
 }
