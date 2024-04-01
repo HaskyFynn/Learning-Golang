@@ -5,10 +5,10 @@ import (
 )
 
 func updateName(x string) {
-	x = "wedge"
+	x = "eii"
 }
 func updateNamepointer(x *string) {
-	*x = "wedge"
+	*x = "eii"
 }
 
 func main() {
