@@ -1,0 +1,5 @@
+Bill Breakdown: 
+koose:                   ...$8 
+tea:                     ...$7 
+tip:                     ...$0
+total:                   ...$15.00
