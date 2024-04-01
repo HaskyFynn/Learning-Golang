@@ -5,7 +5,7 @@ import (
 )
 
 func updateName(x string) string {
-	x = "wedge"
+	x = "eii"
 	return x
 }
 
