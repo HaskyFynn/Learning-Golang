@@ -7,8 +7,8 @@ import (
 func main() {
 	menu := map[string]float64{
 		"soup":            4.99,
-		"pie":             6.99,
-		"tofffee pudding": 3.35,
+		"meatpie":             6.99,
+		"ayigbe toffee": 3.35,
 	}
 	fmt.Println(menu)
 	fmt.Println(menu["soup"])
